@@ -1,0 +1,3 @@
+[submodule "Brigid"]
+	path = Brigid
+	url = https://github.com/nathanshaw/Brigid.git

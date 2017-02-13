@@ -1,3 +1,6 @@
 [submodule "Brigid"]
 	path = Brigid
 	url = https://github.com/nathanshaw/Brigid.git
+[submodule "meepo"]
+	path = meepo
+	url = https://github.com/ericheep/meepo

@@ -15,6 +15,7 @@
 // For Lydia... TrimpSpin is 2 and TrimpBeat is 1
 // SnapperBots are 3-8
 // StringThing is 9
+// RattleTron is 10
 #define arduinoID 2
 
 // stores our incoming values
